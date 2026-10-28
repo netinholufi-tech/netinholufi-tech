@@ -1,4 +1,4 @@
-# 👨‍💻 Neto | Full Stack Developer
+# 👨‍💻 Aprigionetto| Full Stack Developer
 
 <div align="center">
 
@@ -14,7 +14,7 @@ https://img.shields.io/badge/GitHub-netinholufi--tech-181717?style=for-the-badge
 
 ## 👋 Sobre mim
 
-Olá! Sou **Neto**, desenvolvedor focado na criação de aplicações web, automações e soluções tecnológicas.
+Olá! Sou **Aprigionetto**, desenvolvedor focado na criação de aplicações web, automações e soluções tecnológicas.
 
 💡 Apaixonado por programação e aprendizado contínuo.
 
