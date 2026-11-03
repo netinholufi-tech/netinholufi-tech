@@ -22,35 +22,6 @@ Olá! Sou **Aprigionetto**, desenvolvedor focado na criação de aplicações we
 
 ---
 
-## 🛠️ Stack Tecnológica
-
-### Front-end
-
-<p><img width="282" height="117" alt="image" src="https://github.com/user-attachments/assets/76c44a3e-8f60-46f3-81f9-45c6220d3b0c" />
-
-https://skillicons.dev/icons?i=html,css,js,react,bootstrap
-</p>
-
-### Back-end
-
-<p>
-https://skillicons.dev/icons?i=nodejs,express,php,python
-</p>
-
-### Banco de Dados
-
-<p>
-https://skillicons.dev/icons?i=mysql,postgresql,mongodb
-</p>
-
-### Ferramentas
-
-<p>
-https://skillicons.dev/icons?i=git,github,vscode,docker
-</p>
-
----
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
