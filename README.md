@@ -19,6 +19,7 @@ Olá! Sou **Aprigionetto**, desenvolvedor focado na criação de aplicações we
 💡 Apaixonado por programação e aprendizado contínuo.
 
 🎯 Meu objetivo é desenvolver projetos que gerem valor real para pessoas e empresas.
+<img width="282" height="117" alt="image" src="https://github.com/user-attachments/assets/3138d678-8c06-4afb-a23f-d48425a64697" />
 
 ---
 
