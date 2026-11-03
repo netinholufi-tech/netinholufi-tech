@@ -1,4 +1,4 @@
-# 👨‍💻 Aprigionetto| Full Stack Developer
+# 👨‍💻 Aprigio Netto| Full Stack Developer
 
 <div align="center">
 
